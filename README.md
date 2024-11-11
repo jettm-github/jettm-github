@@ -2,7 +2,7 @@
 - I am currently a student at __The university of the Sunshine Coast__ in Queensland. 
 - I am looking to extend myself a begin creating a portfolio at the end of my first year of university.
 - I am learning the MERN stack and will be creating a couple websites 😀.
-
+- love maths and problem solving too!
 <!--
 **jettm-github/jettm-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
