@@ -1,6 +1,6 @@
 ## Hi there 🤓
-I am currently a student at __The university of the Sunshine Coast__ in Queensland. 
-I am looking to extend myself a begin creating a portfolio at the end of my first year of university.
+... I am currently a student at __The university of the Sunshine Coast__ in Queensland. 
+... I am looking to extend myself a begin creating a portfolio at the end of my first year of university.
 > Mark Down is fun
 
 
