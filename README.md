@@ -4,14 +4,6 @@
 - I am learning the MERN stack and will be creating a couple websites 😀.
 - love maths and problem solving too!
 
-
-
-
-
-
-
-
-- I am a big fan of the __Python__ programming language.
 <!--
 **jettm-github/jettm-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
